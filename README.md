@@ -30,6 +30,15 @@ Track product prices across e-commerce sites and get alerts on price drops. Buil
 - **Recharts** - Interactive charts
 - **Tailwind CSS** - Styling
 
+## Screenshots
+
+- Website
+<img width="3008" height="1932" alt="main" src="https://github.com/user-attachments/assets/08c8c0a5-a133-4be8-b08a-ad22c914533e" />
+
+- Mail ALerts
+<img width="3390" height="1684" alt="mailAlert" src="https://github.com/user-attachments/assets/8792b286-eaa3-4a8f-8a82-d213b51d409c" />
+
+
 ## 📋 Prerequisites
 
 Before you begin, ensure you have:
